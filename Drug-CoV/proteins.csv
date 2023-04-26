@@ -1,0 +1,398 @@
+uniprot,name
+P43405,Tyrosine-protein kinase SYK
+P0DMS8,Adenosine receptor A3
+O00519,Fatty-acid amide hydrolase 1
+Q99808,Equilibrative nucleoside transporter 1
+P22309,UDP-glucuronosyltransferase 1-1
+O76074,"cGMP-specific 3',5'-cyclic phosphodiesterase"
+P09917,Arachidonate 5-lipoxygenase
+P25774,Cathepsin S
+P07711,Cathepsin L1
+P00519,Tyrosine-protein kinase ABL1
+P62344,Calcium-dependent protein kinase 1
+P9WI81,Serine/threonine-protein kinase PknB
+Q9UK32,Ribosomal protein S6 kinase alpha-6
+P29597,Non-receptor tyrosine-protein kinase TYK2
+Q8NI60,"Atypical kinase COQ8A, mitochondrial"
+P23458,Tyrosine-protein kinase JAK1
+P08581,Hepatocyte growth factor receptor
+Q8IY84,Serine/threonine-protein kinase NIM1
+Q9P289,Serine/threonine-protein kinase 26
+P17612,cAMP-dependent protein kinase catalytic subunit alpha
+Q9Y6E0,Serine/threonine-protein kinase 24
+Q13188,Serine/threonine-protein kinase 3
+P42680,Tyrosine-protein kinase Tec
+Q9BYT3,Serine/threonine-protein kinase 33
+Q8TDR2,Serine/threonine-protein kinase 35
+Q9NRP7,Serine/threonine-protein kinase 36
+Q15208,Serine/threonine-protein kinase 38
+Q9Y2H1,Serine/threonine-protein kinase 38-like
+Q9UEW8,STE20/SPS1-related proline-alanine-rich protein kinase
+Q7L7X3,Serine/threonine-protein kinase TAO1
+Q9UL54,Serine/threonine-protein kinase TAO2
+Q9H2K8,Serine/threonine-protein kinase TAO3
+Q9UHD2,Serine/threonine-protein kinase TBK1
+Q02763,Angiopoietin-1 receptor
+Q15569,Dual specificity testis-specific protein kinase 1
+P36897,TGF-beta receptor type-1
+P37173,TGF-beta receptor type-2
+P35590,Tyrosine-protein kinase receptor Tie-1
+Q9UKI8,Serine/threonine-protein kinase tousled-like 1
+Q86UE8,Serine/threonine-protein kinase tousled-like 2
+Q9UKE5,TRAF2 and NCK-interacting protein kinase
+Q13470,Non-receptor tyrosine-protein kinase TNK1
+Q07912,Activated CDC42 kinase 1
+Q59H18,Serine/threonine-protein kinase TNNI3K
+Q9BXA7,Testis-specific serine/threonine-protein kinase 1
+P33981,Dual specificity protein kinase TTK
+P42681,Tyrosine-protein kinase TXK
+Q06418,Tyrosine-protein kinase receptor TYRO3
+O75385,Serine/threonine-protein kinase ULK1
+Q8IYT8,Serine/threonine-protein kinase ULK2
+Q6PHR2,Serine/threonine-protein kinase ULK3
+P30291,Wee1-like protein kinase
+P07947,Tyrosine-protein kinase Yes
+Q56UN5,Mitogen-activated protein kinase kinase kinase 19
+Q9NYL2,Mitogen-activated protein kinase kinase kinase MLT
+P43403,Tyrosine-protein kinase ZAP-70
+Q2M2I8,AP2-associated protein kinase 1
+P42684,Abelson tyrosine-protein kinase 2
+Q04771,Activin receptor type-1
+P36896,Activin receptor type-1B
+Q96D53,"Atypical kinase COQ8B, mitochondrial"
+Q9UM73,ALK tyrosine kinase receptor
+Q8NFD2,Ankyrin repeat and protein kinase domain-containing protein 1
+O14965,Aurora kinase A
+Q96GD4,Aurora kinase B
+Q9UQB9,Aurora kinase C
+P30530,Tyrosine-protein kinase receptor UFO
+P51451,Tyrosine-protein kinase Blk
+Q9NSY1,BMP-2-inducible protein kinase
+O00238,Bone morphogenetic protein receptor type-1B
+Q13873,Bone morphogenetic protein receptor type-2
+P51813,Cytoplasmic tyrosine-protein kinase BMX
+P15056,Serine/threonine-protein kinase B-raf
+Q06187,Tyrosine-protein kinase BTK
+Q14012,Calcium/calmodulin-dependent protein kinase type 1
+Q8IU85,Calcium/calmodulin-dependent protein kinase type 1D
+Q96NX5,Calcium/calmodulin-dependent protein kinase type 1G
+Q9UQM7,Calcium/calmodulin-dependent protein kinase type II subunit alpha
+Q13554,Calcium/calmodulin-dependent protein kinase type II subunit beta
+Q13557,Calcium/calmodulin-dependent protein kinase type II subunit delta
+Q13555,Calcium/calmodulin-dependent protein kinase type II subunit gamma
+Q8N5S9,Calcium/calmodulin-dependent protein kinase kinase 1
+Q96RR4,Calcium/calmodulin-dependent protein kinase kinase 2
+O14936,Peripheral plasma membrane protein CASK
+P07498,Kappa-casein
+P06493,Cyclin-dependent kinase 1
+Q6DT37,Serine/threonine-protein kinase MRCK gamma
+P11802,Cyclin-dependent kinase 4
+Q00532,Cyclin-dependent kinase-like 1
+Q92772,Cyclin-dependent kinase-like 2
+O14757,Serine/threonine-protein kinase Chk1
+O96017,Serine/threonine-protein kinase Chk2
+O14578,Citron Rho-interacting kinase
+P49759,Dual specificity protein kinase CLK1
+P49760,Dual specificity protein kinase CLK2
+P49761,Dual specificity protein kinase CLK3
+Q9HAZ1,Dual specificity protein kinase CLK4
+P07333,Macrophage colony-stimulating factor 1 receptor
+P41240,Tyrosine-protein kinase CSK
+P48729,Casein kinase I isoform alpha
+P68400,Casein kinase II subunit alpha
+P19784,Casein kinase II subunit alpha'
+P53355,Death-associated protein kinase 1
+Q9UIK4,Death-associated protein kinase 2
+O43293,Death-associated protein kinase 3
+O15075,Serine/threonine-protein kinase DCLK1
+Q8N568,Serine/threonine-protein kinase DCLK2
+Q9C098,Serine/threonine-protein kinase DCLK3
+Q08345,Epithelial discoidin domain-containing receptor 1
+Q16832,Discoidin domain-containing receptor 2
+Q13627,Dual specificity tyrosine-phosphorylation-regulated kinase 1A
+Q9Y463,Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+P00533,Epidermal growth factor receptor
+Q9BQI3,Eukaryotic translation initiation factor 2-alpha kinase 1
+P19525,"Interferon-induced, double-stranded RNA-activated protein kinase"
+Q9P2K8,eIF-2-alpha kinase GCN2
+P21709,Ephrin type-A receptor 1
+P29317,Ephrin type-A receptor 2
+P29320,Ephrin type-A receptor 3
+P54764,Ephrin type-A receptor 4
+P54756,Ephrin type-A receptor 5
+Q9UF33,Ephrin type-A receptor 6
+Q15375,Ephrin type-A receptor 7
+P29322,Ephrin type-A receptor 8
+P54762,Ephrin type-B receptor 1
+P29323,Ephrin type-B receptor 2
+P54760,Ephrin type-B receptor 4
+O15197,Ephrin type-B receptor 6
+P04626,Receptor tyrosine-protein kinase erbB-2
+Q15303,Receptor tyrosine-protein kinase erbB-4
+O75460,Serine/threonine-protein kinase/endoribonuclease IRE1
+P16591,Tyrosine-protein kinase Fer
+P07332,Tyrosine-protein kinase Fes/Fps
+P11362,Fibroblast growth factor receptor 1
+P21802,Fibroblast growth factor receptor 2
+P22607,Fibroblast growth factor receptor 3
+P09769,Tyrosine-protein kinase Fgr
+P17948,Vascular endothelial growth factor receptor 1
+P36888,Receptor-type tyrosine-protein kinase FLT3
+P35916,Vascular endothelial growth factor receptor 3
+P42345,Serine/threonine-protein kinase mTOR
+P42685,Tyrosine-protein kinase FRK
+P06241,Tyrosine-protein kinase Fyn
+O14976,Cyclin-G-associated kinase
+P49840,Glycogen synthase kinase-3 alpha
+P49841,Glycogen synthase kinase-3 beta
+P08631,Tyrosine-protein kinase HCK
+Q9H2X6,Homeodomain-interacting protein kinase 2
+Q9H422,Homeodomain-interacting protein kinase 3
+Q9UPZ9,Serine/threonine-protein kinase ICK
+O14920,Inhibitor of nuclear factor kappa-B kinase subunit beta
+Q14164,Inhibitor of nuclear factor kappa-B kinase subunit epsilon
+P06213,Insulin receptor
+P14616,Insulin receptor-related protein
+P51617,Interleukin-1 receptor-associated kinase 1
+Q9Y616,Interleukin-1 receptor-associated kinase 3
+Q9NWZ3,Interleukin-1 receptor-associated kinase 4
+Q08881,Tyrosine-protein kinase ITK/TSK
+O60674,Tyrosine-protein kinase JAK2
+P52333,Tyrosine-protein kinase JAK3
+P35968,Vascular endothelial growth factor receptor 2
+Q9Y2K2,Serine/threonine-protein kinase SIK3
+P10721,Mast/stem cell growth factor receptor Kit
+O95835,Serine/threonine-protein kinase LATS1
+P06239,Tyrosine-protein kinase Lck
+P53667,LIM domain kinase 1
+P53671,LIM domain kinase 2
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2
+P29376,Leukocyte tyrosine kinase receptor
+P07948,Tyrosine-protein kinase Lyn
+P36507,Dual specificity mitogen-activated protein kinase kinase 2
+P46734,Dual specificity mitogen-activated protein kinase kinase 3
+Q13163,Dual specificity mitogen-activated protein kinase kinase 5
+P52564,Dual specificity mitogen-activated protein kinase kinase 6
+Q13233,Mitogen-activated protein kinase kinase kinase 1
+Q02779,Mitogen-activated protein kinase kinase kinase 10
+Q16584,Mitogen-activated protein kinase kinase kinase 11
+Q12852,Mitogen-activated protein kinase kinase kinase 12
+O43283,Mitogen-activated protein kinase kinase kinase 13
+Q6ZN16,Mitogen-activated protein kinase kinase kinase 15
+Q9Y2U5,Mitogen-activated protein kinase kinase kinase 2
+Q99759,Mitogen-activated protein kinase kinase kinase 3
+Q9Y6R4,Mitogen-activated protein kinase kinase kinase 4
+O95382,Mitogen-activated protein kinase kinase kinase 6
+P80192,Mitogen-activated protein kinase kinase kinase 9
+Q92918,Mitogen-activated protein kinase kinase kinase kinase 1
+Q12851,Mitogen-activated protein kinase kinase kinase kinase 2
+Q8IVH8,Mitogen-activated protein kinase kinase kinase kinase 3
+O95819,Mitogen-activated protein kinase kinase kinase kinase 4
+Q9Y4K4,Mitogen-activated protein kinase kinase kinase kinase 5
+P53779,Mitogen-activated protein kinase 10
+O15264,Mitogen-activated protein kinase 13
+Q16539,Mitogen-activated protein kinase 14
+Q8TD08,Mitogen-activated protein kinase 15
+P31152,Mitogen-activated protein kinase 4
+Q13164,Mitogen-activated protein kinase 7
+P45984,Mitogen-activated protein kinase 9
+Q8IW41,MAP kinase-activated protein kinase 5
+Q9P0L2,Serine/threonine-protein kinase MARK1
+Q7KZI7,Serine/threonine-protein kinase MARK2
+P27448,MAP/microtubule affinity-regulating kinase 3
+Q96L34,MAP/microtubule affinity-regulating kinase 4
+Q7Z460,CLIP-associating protein 1
+Q9Y2H9,Microtubule-associated serine/threonine-protein kinase 1
+P42679,Megakaryocyte-associated tyrosine-protein kinase
+Q14680,Maternal embryonic leucine zipper kinase
+Q12866,Tyrosine-protein kinase Mer
+Q8N4C8,Misshapen-like kinase 1
+Q9BUB5,MAP kinase-interacting serine/threonine-protein kinase 1
+Q9HBH9,MAP kinase-interacting serine/threonine-protein kinase 2
+Q04912,Macrophage-stimulating protein receptor
+O15146,"Muscle, skeletal receptor tyrosine-protein kinase"
+Q15746,"Myosin light chain kinase, smooth muscle"
+Q9H1R3,"Myosin light chain kinase 2, skeletal/cardiac muscle"
+Q32MK0,Myosin light chain kinase 3
+Q86YV6,Myosin light chain kinase family member 4
+Q8NEV4,Myosin-IIIa
+Q96PY6,Serine/threonine-protein kinase Nek1
+Q8NG66,Serine/threonine-protein kinase Nek11
+P51955,Serine/threonine-protein kinase Nek2
+P51956,Serine/threonine-protein kinase Nek3
+P51957,Serine/threonine-protein kinase Nek4
+Q6P3R8,Serine/threonine-protein kinase Nek5
+Q8TD19,Serine/threonine-protein kinase Nek9
+P04629,High affinity nerve growth factor receptor
+Q16620,BDNF/NT-3 growth factors receptor
+Q16288,NT-3 growth factor receptor
+O60285,NUAK family SNF1-like kinase 1
+Q9H093,NUAK family SNF1-like kinase 2
+O95747,Serine/threonine-protein kinase OSR1
+Q13153,Serine/threonine-protein kinase PAK 1
+Q13177,Serine/threonine-protein kinase PAK 2
+O75914,Serine/threonine-protein kinase PAK 3
+O96013,Serine/threonine-protein kinase PAK 4
+Q9NQU5,Serine/threonine-protein kinase PAK 6
+Q9P286,Serine/threonine-protein kinase PAK 5
+Q00536,Cyclin-dependent kinase 16
+Q00537,Cyclin-dependent kinase 17
+P16234,Platelet-derived growth factor receptor alpha
+P09619,Platelet-derived growth factor receptor beta
+O15530,3-phosphoinositide-dependent protein kinase 1
+Q96Q40,Cyclin-dependent kinase 15
+Q16816,"Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform"
+Q9UBF8,Phosphatidylinositol 4-kinase beta
+O00750,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta
+O75747,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma
+O00329,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+P48736,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"
+P11309,Serine/threonine-protein kinase pim-1
+Q86V86,Serine/threonine-protein kinase pim-3
+P78356,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+Q8TBX8,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma
+Q99640,Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase
+Q16512,Serine/threonine-protein kinase N1
+Q16513,Serine/threonine-protein kinase N2
+P53350,Serine/threonine-protein kinase PLK1
+Q9NYY3,Serine/threonine-protein kinase PLK2
+Q9H4B4,Serine/threonine-protein kinase PLK3
+O00444,Serine/threonine-protein kinase PLK4
+Q13131,5'-AMP-activated protein kinase catalytic subunit alpha-1
+P54646,5'-AMP-activated protein kinase catalytic subunit alpha-2
+Q9Y478,5'-AMP-activated protein kinase subunit beta-1
+O43741,5'-AMP-activated protein kinase subunit beta-2
+P54619,5'-AMP-activated protein kinase subunit gamma-1
+Q9UGJ0,5'-AMP-activated protein kinase subunit gamma-2
+Q9UGI9,5'-AMP-activated protein kinase subunit gamma-3
+P22694,cAMP-dependent protein kinase catalytic subunit beta
+Q05655,Protein kinase C delta type
+Q02156,Protein kinase C epsilon type
+P05129,Protein kinase C gamma type
+P41743,Protein kinase C iota type
+Q04759,Protein kinase C theta type
+Q15139,Serine/threonine-protein kinase D1
+Q13237,cGMP-dependent protein kinase 2
+Q13523,Serine/threonine-protein kinase PRP4 homolog
+Q05397,Focal adhesion kinase 1
+Q14289,Protein-tyrosine kinase 2-beta
+Q13882,Protein-tyrosine kinase 6
+P04049,RAF proto-oncogene serine/threonine-protein kinase
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret
+Q9BRS2,Serine/threonine-protein kinase RIO1
+Q9BVS4,Serine/threonine-protein kinase RIO2
+O14730,Serine/threonine-protein kinase RIO3
+Q13546,Receptor-interacting serine/threonine-protein kinase 1
+O43353,Receptor-interacting serine/threonine-protein kinase 2
+P57078,Receptor-interacting serine/threonine-protein kinase 4
+O75116,Rho-associated protein kinase 2
+P08922,Proto-oncogene tyrosine-protein kinase ROS
+Q15418,Ribosomal protein S6 kinase alpha-1
+P51812,Ribosomal protein S6 kinase alpha-3
+Q52WX2,Serine/threonine-protein kinase SBK1
+P0C264,Uncharacterized serine/threonine-protein kinase SBK3
+Q96BR1,Serine/threonine-protein kinase Sgk3
+P57059,Serine/threonine-protein kinase SIK1
+Q9H0K1,Serine/threonine-protein kinase SIK2
+Q9H2G2,STE20-like serine/threonine-protein kinase
+Q9NRH2,SNF-related serine/threonine-protein kinase
+P12931,Proto-oncogene tyrosine-protein kinase Src
+Q9H3Y6,Tyrosine-protein kinase Srms
+O94804,Serine/threonine-protein kinase 10
+O75716,Serine/threonine-protein kinase 16
+Q9UEE5,Serine/threonine-protein kinase 17A
+O94768,Serine/threonine-protein kinase 17B
+Q8WU08,Serine/threonine-protein kinase 32A
+P08684,Cytochrome P450 3A4
+O60656,UDP-glucuronosyltransferase 1-9
+Q9UNQ0,ATP-binding cassette sub-family G member 2
+Q2M3G0,ATP-binding cassette sub-family B member 5
+P09210,Glutathione S-transferase A2
+P01375,Tumor necrosis factor
+Q9NR96,Toll-like receptor 9
+Q8MU52,Glutathione S-transferase
+P09429,High mobility group protein B1
+P09488,Glutathione S-transferase Mu 1
+Q9BYF1,Angiotensin-converting enzyme 2
+P10632,Cytochrome P450 2C8
+P20815,Cytochrome P450 3A5
+P10635,Cytochrome P450 2D6
+P04798,Cytochrome P450 1A1
+P08183,Multidrug resistance protein 1
+P02768,Serum albumin
+P02763,Alpha-1-acid glycoprotein 1
+P19652,Alpha-1-acid glycoprotein 2
+O75469,Nuclear receptor subfamily 1 group I member 2
+P11712,Cytochrome P450 2C9
+P33261,Cytochrome P450 2C19
+P20813,Cytochrome P450 2B6
+P05177,Cytochrome P450 1A2
+P24462,Cytochrome P450 3A7
+Q9HAW8,UDP-glucuronosyltransferase 1-10
+P35503,UDP-glucuronosyltransferase 1-3
+P22310,UDP-glucuronosyltransferase 1-4
+P19224,UDP-glucuronosyltransferase 1-6
+Q9HAW7,UDP-glucuronosyltransferase 1-7
+Q9HAW9,UDP-glucuronosyltransferase 1-8
+P54855,UDP-glucuronosyltransferase 2B15
+P06133,UDP-glucuronosyltransferase 2B4
+P16662,UDP-glucuronosyltransferase 2B7
+P33527,Multidrug resistance-associated protein 1
+P46721,Solute carrier organic anion transporter family member 1A2
+Q92887,Canalicular multispecific organic anion transporter 1
+Q9Y6L6,Solute carrier organic anion transporter family member 1B1
+O94956,Solute carrier organic anion transporter family member 2B1
+O95342,Bile salt export pump
+Q9NPD5,Solute carrier organic anion transporter family member 1B3
+Q809M3,RNA-directed RNA polymerase catalytic subunit
+Q06278,Aldehyde oxidase
+P47989,Xanthine dehydrogenase/oxidase
+P05181,Cytochrome P450 2E1
+Q4U2R8,Solute carrier family 22 member 6
+Q8TCC7,Solute carrier family 22 member 8
+Q96S37,Solute carrier family 22 member 12
+Q9H228,Sphingosine 1-phosphate receptor 5
+Q13547,Histone deacetylase 1
+P21453,Sphingosine 1-phosphate receptor 1
+O95977,Sphingosine 1-phosphate receptor 4
+Q99500,Sphingosine 1-phosphate receptor 3
+Q9NYA1,Sphingosine kinase 1
+P78329,Phylloquinone omega-hydroxylase CYP4F2
+P43004,Excitatory amino acid transporter 2
+P43003,Excitatory amino acid transporter 1
+Q9HB55,Cytochrome P450 3A43
+Q13224,"Glutamate receptor ionotropic, NMDA 2B"
+Q05586,"Glutamate receptor ionotropic, NMDA 1"
+P48549,G protein-activated inward rectifier potassium channel 1
+P48051,G protein-activated inward rectifier potassium channel 2
+P48544,G protein-activated inward rectifier potassium channel 4
+P35354,Prostaglandin G/H synthase 2
+P23219,Prostaglandin G/H synthase 1
+P10415,Apoptosis regulator Bcl-2
+P07204,Thrombomodulin
+P12104,"Fatty acid-binding protein, intestinal"
+P37231,Peroxisome proliferator-activated receptor gamma
+P13569,Cystic fibrosis transmembrane conductance regulator
+Q07869,Peroxisome proliferator-activated receptor alpha
+P07359,Platelet glycoprotein Ib alpha chain
+P31151,Protein S100-A7
+O15439,Multidrug resistance-associated protein 4
+Q9NSA0,Solute carrier family 22 member 11
+P04150,Glucocorticoid receptor
+P51843,Nuclear receptor subfamily 0 group B member 1
+P04083,Annexin A1
+P35228,"Nitric oxide synthase, inducible"
+P80365,Corticosteroid 11-beta-dehydrogenase isozyme 2
+P28845,Corticosteroid 11-beta-dehydrogenase isozyme 1
+P05093,"Steroid 17-alpha-hydroxylase/17,20 lyase"
+P11509,Cytochrome P450 2A6
+Q02928,Cytochrome P450 4A11
+P15538,"Cytochrome P450 11B1, mitochondrial"
+Q04828,Aldo-keto reductase family 1 member C1
+P52895,Aldo-keto reductase family 1 member C2
+P42330,Aldo-keto reductase family 1 member C3
+P17516,Aldo-keto reductase family 1 member C4
+Q16678,Cytochrome P450 1B1
+Q86VL8,Multidrug and toxin extrusion protein 2
+O15244,Solute carrier family 22 member 2
+Q05318,RNA-directed RNA polymerase L

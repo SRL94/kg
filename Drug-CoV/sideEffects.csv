@@ -1,0 +1,218 @@
+se_idx,name
+se_0,constipation
+se_1,diarrhea
+se_2,gas or bloating
+se_3,dizziness
+se_4,nervousness
+se_5,ringing in the ears
+se_6,unexplained weight gain
+se_7,shortness of breath or difficulty breathing
+se_8,"swelling of the abdomen, feet, ankles, or lower legs"
+se_9,fever
+se_10,blisters
+se_11,rash
+se_12,itching
+se_13,hives
+se_14,"swelling of the eyes, face, throat, arms, or hands"
+se_15,difficulty breathing or swallowing
+se_16,hoarseness
+se_17,excessive tiredness
+se_18,pain in the upper right part of the stomach
+se_19,nausea
+se_20,loss of appetite
+se_21,yellowing of the skin or eyes
+se_22,flu-like symptoms
+se_23,pale skin
+se_24,fast heartbeat
+se_25,"cloudy, discolored, or bloody urine"
+se_26,back pain
+se_27,difficult or painful urination
+se_28,"blurred vision, changes in color vision, or other vision problems"
+se_29,red or painful eyes
+se_30,stiff neck
+se_31,headache
+se_32,confusion
+se_33,aggression
+se_34,drowsiness
+se_35,diarrhea
+se_36,gas
+se_37,heartburn
+se_38,change in ability to taste food
+se_39,headache
+se_40,"numbness, burning, or tingling of the hands, feet, or area around the mouth"
+se_41,muscle or joint pain
+se_42,"stomach pain, nausea, and vomiting"
+se_43,blistering or peeling of the skin
+se_44,rash
+se_45,hives
+se_46,"swelling of the eyes, face, tongue, lips, or throat"
+se_47,tightening of the throat
+se_48,difficulty breathing or swallowing
+se_49,nausea
+se_50,vomiting
+se_51,stomach pain
+se_52,excessive tiredness
+se_53,lack of energy
+se_54,loss of appetite
+se_55,pain in the upper right part of the stomach
+se_56,yellowing of the skin or eyes
+se_57,dizziness
+se_58,lightheadedness
+se_59,loss of consciousness
+se_60,irregular heartbeat
+se_61,upset stomach
+se_62,stomach irritation
+se_63,vomiting
+se_64,headache
+se_65,dizziness
+se_66,insomnia
+se_67,restlessness
+se_68,depression
+se_69,anxiety
+se_70,acne
+se_71,increased hair growth
+se_72,easy bruising
+se_73,irregular or absent menstrual periods
+se_74,skin rash
+se_75,"swollen face, lower legs, or ankles"
+se_76,vision problems
+se_77,cold or infection that lasts a long time
+se_78,muscle weakness
+se_79,black or tarry stool
+se_80,headache
+se_81,diarrhea
+se_82,vomiting
+se_83,stomach pain
+se_84,constipation
+se_85,rash
+se_86,peeling or blistering skin
+se_87,mouth sores
+se_88,"red, swollen, itchy, or teary eyes"
+se_89,muscle or joint aches
+se_90,fever
+se_91,"swelling, tenderness, redness, or other signs of infection"
+se_92,nausea
+se_93,extreme tiredness
+se_94,loss of appetite
+se_95,pain in the upper right part of the stomach
+se_96,yellowing of the skin or eyes
+se_97,pale or dark stools
+se_98,nausea
+se_99,diarrhea
+se_100,vomiting
+se_101,stomach pain
+se_102,headache
+se_103,"fast, pounding, or irregular heartbeat"
+se_104,dizziness
+se_105,fainting
+se_106,rash with or without a fever
+se_107,blisters or peeling
+se_108,"fever and pus-filled, blister-like sores, redness, and swelling of the skin"
+se_109,hives
+se_110,itching
+se_111,wheezing or difficulty breathing or swallowing
+se_112,"swelling of the face, throat, tongue, lips, eyes, hands, feet, ankles, or lower legs"
+se_113,hoarseness
+se_114,vomiting or irritability while feeding (in infants less than 6 weeks old)
+se_115,severe diarrhea (watery or bloody stools) that may occur with or without fever and stomach cramps (may occur up to 2 months or more after your treatment)
+se_116,yellowing of the skin or eyes
+se_117,extreme tiredness
+se_118,unusual bleeding or bruising
+se_119,lack of energy
+se_120,loss of appetite
+se_121,pain in the upper right part of the stomach
+se_122,flu-like symptoms
+se_123,dark-colored urine
+se_124,unusual muscle weakness or difficulty with muscle control
+se_125,pink and swollen eyes
+se_126,weakness
+se_127,back pain
+se_128,pain in the hands or feet
+se_129,diarrhea
+se_130,abdominal pain
+se_131,nausea
+se_132,headache or migraine
+se_133,hair loss
+se_134,slow heartbeat
+se_135,"rash, hives, itching; swelling of the face, eye, mouth, throat, tongue or lips; or difficulty swallowing or breathing"
+se_136,"sore throat, body aches, fever, chills, cough, and other signs of infection and during treatment and for 2 months after your treatment"
+se_137,"headache, neck stiffness, fever, sensitivity to light, nausea, or confusion during treatment and for 2 months after your treatment"
+se_138,"painful, burning, numb, or tingling feeling on skin, sensitivity to touch, rash, or itching during treatment and for 2 months after your treatment"
+se_139,"sudden severe headache, confusion, changes in vision, or seizures"
+se_140,"blurriness, shadows, or a blind spot in the center of your vision; sensitivity to light; unusual color to your vision or other vision problems"
+se_141,"changes to an existing mole; a new darkened area on skin; sores that do not heal; growths on your skin such as a bump that may be shiny, pearly white, skin-colored, or pink, or any other changes to your skin"
+se_142,"weakness on one side of the body or clumsiness of the arms or legs that worsens over time; changes in your thinking, memory, or balance; confusion or personality changes; or loss of strength"
+se_143,new or worsening shortness of breath
+se_144,"nausea, vomiting, loss of appetite, abdominal pain, yellowing of skin or eyes, or dark urine"
+se_145,diarrhea
+se_146,nausea
+se_147,dizziness
+se_148,nausea
+se_149,vomiting
+se_150,diarrhea
+se_151,stomach cramps or pain
+se_152,muscle pain or weakness
+se_153,numbness or tingling in the fingers or toes
+se_154,unusual bruising or bleeding
+se_155,"sore throat, fever, chills, and other signs of infection"
+se_156,weakness or tiredness
+se_157,"paleness or grayness of the lips, tongue, or palms"
+se_158,diarrhea
+se_159,nausea
+se_160,dizziness
+se_161,rash
+se_162,abdominal pain
+se_163,fatigue
+se_164,severe diarrhea
+se_165,"headache, confusion, dizziness, chest pain, or shortness of breath"
+se_166,pain in the upper right part of the stomach
+se_167,yellowing of the skin or eyes
+se_168,dark colored urine
+se_169,nausea
+se_170,vomiting
+se_171,nausea
+se_172,"hives; swelling of face, eyes, lips, or throat; difficulty swallowing or breathing"
+se_173,"stomach pain, especially if it comes along with fever and diarrhea or constipation"
+se_174,"shortness of breath, tiredness, or pale skin"
+se_175,headache
+se_176,nausea
+se_177,loss of appetite
+se_178,diarrhea
+se_179,upset stomach
+se_180,stomach pain
+se_181,rash
+se_182,itching
+se_183,hair loss
+se_184,seeing light flashes and streaks
+se_185,blurred vision
+se_186,"reading or seeing difficulties (words disappear, seeing half an object, misty or foggy vision)"
+se_187,difficulty hearing
+se_188,ringing in ears
+se_189,muscle weakness
+se_190,drowsiness
+se_191,vomiting
+se_192,irregular heartbeats
+se_193,convulsions
+se_194,difficulty breathing
+se_195,mood or mental changes
+se_196,decreased consciousness or loss of counsciousness
+se_197,thinking about harming or killing yourself
+se_198,upset stomach
+se_199,stomach irritation
+se_200,vomiting
+se_201,headache
+se_202,dizziness
+se_203,insomnia
+se_204,restlessness
+se_205,depression
+se_206,anxiety
+se_207,acne
+se_208,increased hair growth
+se_209,easy bruising
+se_210,irregular or absent menstrual periods
+se_211,skin rash
+se_212,"swollen face, lower legs, or ankles"
+se_213,vision problems
+se_214,cold or infection that lasts a long time
+se_215,muscle weakness
+se_216,black or tarry stool
